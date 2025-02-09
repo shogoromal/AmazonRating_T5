@@ -4,6 +4,8 @@
 
 ## 実行環境
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shogoromal/AmazonRating_T5/blob/master/Notebooks/RatingAmazonReview_train.ipynb)
+
 google colab の T4 で学習可能です。
 notebook は RatingAmazonReview_train.ipynb を実行してください。
 
